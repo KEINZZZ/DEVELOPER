@@ -1,0 +1,2 @@
+# DEVELOPER
+Discord Nitro Generator
